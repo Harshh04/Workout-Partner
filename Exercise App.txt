@@ -1,0 +1,4 @@
+Can log exercises with sets and reps
+Log in functionality
+shows PR for particular exercises
+has timer for rest times 
